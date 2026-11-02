@@ -1,0 +1,10 @@
+.codex/
+node_modules/
+.env*
+*.log
+private/
+*.pem
+*.key
+*.p12
+*.pfx
+identity.json

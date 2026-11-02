@@ -1,0 +1,19 @@
+{
+  "name": "web-portal-quality-guide",
+  "description": "Explore web portal testing, accessibility evaluation and cross-platform acceptance questions with a local journey discussion map.",
+  "topics": [
+    "web-testing",
+    "web-portals",
+    "digital-products",
+    "accessibility",
+    "quality-assurance",
+    "web-performance",
+    "user-acceptance-testing"
+  ],
+  "visibility": "private-until-approved",
+  "has_issues": false,
+  "has_wiki": false,
+  "funding": "not-enabled",
+  "homepage": null,
+  "notes": "Proposed metadata only; no GitHub repository created. Replace homepage only with an approved URL."
+}

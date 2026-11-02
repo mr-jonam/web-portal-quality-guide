@@ -1,0 +1,14 @@
+{
+  "name": "web-portal-quality-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Explore web portal testing, accessibility evaluation and cross-platform acceptance questions with a local journey discussion map.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "preview": "node scripts/serve.mjs",
+    "configure": "node scripts/configure.mjs"
+  },
+  "license": "UNLICENSED"
+}
