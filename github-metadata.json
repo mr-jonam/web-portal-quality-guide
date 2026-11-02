@@ -10,10 +10,11 @@
     "web-performance",
     "user-acceptance-testing"
   ],
-  "visibility": "private-until-approved",
+  "visibility": "private",
   "has_issues": false,
   "has_wiki": false,
   "funding": "not-enabled",
   "homepage": null,
-  "notes": "Proposed metadata only; no GitHub repository created. Replace homepage only with an approved URL."
+  "notes": "Private GitHub repository created; description and topics configured. Initial push authorised. Homepage remains unset pending approved public hosting and rights.",
+  "repository_url": "https://github.com/mr-jonam/web-portal-quality-guide"
 }

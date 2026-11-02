@@ -1,6 +1,6 @@
 # Component rights review
 
-Review date: 2026-11-02. Status: inception review complete; publication review pending.
+Review date: 2026-11-02. Status: inception and private GitHub transfer reviews complete; public release review pending.
 
 | Component | Present content | Current profile | Candidate after owner approval | Reason |
 | --- | --- | --- | --- | --- |
@@ -32,3 +32,7 @@ A public GitHub repository may be viewed and forked under GitHub platform terms 
 ## Provenance
 
 .provenance/manifest.json holds a random UUID, public random project token, tracked-source digest and licence digest. A token is a public correlation marker, not a credential. No signing key or public encryption recipient has been supplied; signature and encrypted identity are explicitly pending. Do not create a private key or plaintext identity record in this repository. A later user-controlled signature/timestamp can strengthen integrity evidence, not establish conclusive ownership or guaranteed tracing.
+
+## Private GitHub transfer review — 2026-11-02
+
+The user authorised repository creation and push. Transfer is to an access-controlled private repository under the authenticated GitHub account; the account name is a hosting destination, not an assertion of legal ownership. All components retain LicenseRef-Proprietary and the existing provisional notices. No public reuse grant, external contributor access, website deployment or final publisher identity is approved. The reviewed inventory remains original code and editorial content with linked third-party references; this transfer adds only repository metadata, status documentation and an unsigned integrity record. No vendor material or runtime dependency is introduced. Existing licence alternatives and unresolved holder/contact facts remain unchanged. The inception record is preserved; a separate private-transfer record hashes the current tracked sources and licence. No signature or encrypted identity can be verified because user-controlled inputs have not been supplied.

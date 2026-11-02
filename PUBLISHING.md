@@ -1,6 +1,6 @@
 # Publication handoff
 
-No remote repository, publication, deployment, external message, workflow, paid service or Sponsor button has been created.
+Private GitHub repository: https://github.com/mr-jonam/web-portal-quality-guide. Creation and initial push were authorised on 2026-11-02. No public release, website deployment, external message, workflow, paid service or Sponsor button has been enabled.
 
 1. Approve a public publisher name, legal rights holder and permission contact. Do not infer an identity from local paths or Git settings.
 2. Complete LICENSE-DECISION.md; replace the provisional LICENSE with the complete approved component licences. Update NOTICE, README and package metadata.
@@ -10,7 +10,7 @@ No remote repository, publication, deployment, external message, workflow, paid 
 6. Add approved URLs for related projects as genuine editorial cross-links; the current preview lists project titles without inventing addresses.
 7. Recheck official references, review the diff and scan content and Git history for secrets, identities, customer context and unsupported claims.
 8. Refresh provenance after all final content/licence/configuration edits, preserving the inception record. Supply only a public encryption recipient and user-controlled signing configuration if stronger evidence is requested.
-9. Review GitHub topics/description from github-metadata.json. Keep issues and wiki disabled initially. Obtain explicit authorisation before creating the GitHub repository, pushing or deploying.
+9. Review GitHub topics/description from github-metadata.json. Keep issues and wiki disabled initially. Private creation and the initial push are authorised. Obtain explicit authorisation before changing visibility or deploying a website.
 10. On an approved host, publish only docs/ for the site and configure noindex on staging. Add the approved repository link and related path URLs. Submit sitemap through an authorised Search Console account. Nothing in this file activates these steps.
 
 ## Local commands

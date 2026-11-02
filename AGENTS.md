@@ -12,3 +12,4 @@
 - Preserve .provenance records; refresh evidence deliberately after content or metadata changes.
 - Initial local commits use a role identity, never a personal or employer identity inferred from the machine.
 - Optional skill is orientation only; no privileged tools, connectors or automatic outbound messages.
+- GitHub: private repository at https://github.com/mr-jonam/web-portal-quality-guide; creation/initial push authorised on 2026-11-02. Public visibility and deployment require separate approval.
