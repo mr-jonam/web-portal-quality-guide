@@ -1,11 +1,15 @@
 {
   "project": "web-portal-quality-guide",
   "publicationApproved": false,
-  "publisherName": "",
-  "rightsHolder": "",
-  "permissionContact": "",
+  "publisherName": "Manoj Rollo / mr-jonam",
+  "rightsHolder": "Manoj Rollo",
+  "permissionContact": "https://www.linkedin.com/in/manoj-rollo/",
   "baseUrl": "",
   "contactUrl": "",
-  "licenseReviewApproved": false,
-  "provenanceReviewApproved": false
+  "licenseReviewApproved": true,
+  "provenanceReviewApproved": true,
+  "repositoryPublicationApproved": true,
+  "repositoryUrl": "https://github.com/mr-jonam/web-portal-quality-guide",
+  "repositoryContactUrl": "https://www.linkedin.com/in/manoj-rollo/",
+  "configurationNote": "publicationApproved and baseUrl/contactUrl govern future website deployment; repository approval and contact are recorded separately."
 }

@@ -1,38 +1,23 @@
-# Component rights review
+# Component rights and publication review
 
-Review date: 2026-11-02. Status: inception and private GitHub transfer reviews complete; public release review pending.
+Review date: 2026-11-04. Effective profile: **LicenseRef-Proprietary**.
 
-| Component | Present content | Current profile | Candidate after owner approval | Reason |
-| --- | --- | --- | --- | --- |
-| Browser UI and Node utility scripts | Original small orientation interface, static preview/config tools | LicenseRef-Proprietary, private provisional | MIT | Small non-differentiating interface; permissive reuse can aid discovery without exposing delivery methods. |
-| Guides, questions, briefs and optional SKILL.md | Original editorial orientation, prepared with AI assistance | LicenseRef-Proprietary, private provisional | CC-BY-4.0 | Attribution-based sharing suits useful lead-generation material; protect delivery scope through content selection. |
-| Source catalogue | Short reference descriptions and links | LicenseRef-Proprietary, private provisional | CC-BY-4.0 for original annotations only | No vendor text, logos or datasets are relicensed. |
-| Vendor documents, trademarks | Linked references only | Respective owners’ terms | No outbound grant | Recheck quotation, trademark and platform rules before release. |
 
-The candidate licences above are recommendations, not effective grants. MIT would cover software only and CC BY 4.0 would cover original non-software material only. Their complete unmodified legal texts must be supplied after approval.
+This review supersedes the provisional selection above; historic inception and private-transfer decisions are retained as history. The user requested public GitHub visibility. Publisher attribution and permission contact reuse the approved public profile: Manoj Rollo / mr-jonam; https://www.linkedin.com/in/manoj-rollo/. This records the selected publication attribution, not independent verification of legal title or employer/contract terms. No earlier company project is an input.
 
-## Alternatives and rationale
+| Component | Effective selection | Scope and reason |
+| --- | --- | --- |
+| Original UI, static assets and Node utilities | LicenseRef-Proprietary, LICENSE sections 1–6 | Free internal execution, evaluation and private modification; external distribution and public hosting require permission. These are demonstration aids, not a reusable delivery framework. |
+| Original guides, questions, briefs and assistant skills | LicenseRef-Proprietary, same LICENSE | Free internal reading, copies and annotation including ordinary business use; protects the requested professional-service boundary without forbidding internal evaluation. |
+| Original reference annotations | LicenseRef-Proprietary, same LICENSE | Same internal-orientation permission; no rights over the linked source. |
+| Vendor/standards documentation and marks | Respective owners' terms; no outbound grant | Links and topic identification only; no bundled vendor text, logos, datasets or code. |
 
-Apache-2.0 adds an express patent grant but is not selected provisionally while ownership is unknown. MPL/GPL/AGPL reciprocity does not implement the commercial content boundary: the useful material itself must remain at orientation level. A restrictive public licence would reduce reuse and is not automatically appropriate merely because this is a lead magnet. CC BY-NC/ND could constrain legitimate business sharing or translation; they are not selected. EUPL is not required by the currently described distribution scenario.
+MIT/Apache-2.0 for code and CC BY 4.0 for text were considered. Their broad redistribution/adaptation grants are not selected for this controlled advisory collection. Copyleft, EUPL, database, hardware and model licences do not match the actual assets or stated reuse goal. The custom restrictive profile continues the already selected public-profile/Compass orientation model and explicitly adds local software evaluation permissions; it is not open source. No patent licence is asserted.
 
-## Inbound review
+All tracked history was scanned for secret patterns and private machine paths, and current content reviewed for scope. No third-party runtime dependency or external contribution has been introduced. Public GitHub viewing/forking under platform terms is acknowledged in LICENSE. Site hosting remains unconfigured; site-config.publicationApproved governs a future website, not GitHub repository visibility. No funding, CI, analytics or deployment is enabled.
 
-- No third-party runtime dependencies, copied code, fonts, platform logos, datasets or models.
-- Original short explanatory text and public URLs; no proprietary training materials or internal project history.
-- No human external contributions accepted. Substantial future contributions require an explicit rights review.
-- No real personal data or contractual client material is intentionally included.
-- Actual employer/contractor ownership and AI-service terms cannot be inferred from the workspace; legal holder must confirm them.
+The inception and private-transfer manifests remain unchanged. An additive public-publication record hashes final Git-normalised source blobs and licence. No signing key/encryption recipient was supplied, so no signature or encrypted identity is claimed or created. Hashes are integrity/correlation evidence only.
 
-## Before publication
+## Decision history
 
-Confirm legal holder, permission contact, commercial reuse/modification/redistribution permissions, jurisdiction and contributor rights; recheck inbound compatibility and hosting/platform terms. Replace LICENSE, update NOTICE/README/package metadata, and approve the review in site-config.json only after completion.
-
-A public GitHub repository may be viewed and forked under GitHub platform terms even without broader reuse permissions. If even a platform fork must need permission, keep it private or use another distribution channel. Licensing cannot replace omission of proprietary material.
-
-## Provenance
-
-.provenance/manifest.json holds a random UUID, public random project token, tracked-source digest and licence digest. A token is a public correlation marker, not a credential. No signing key or public encryption recipient has been supplied; signature and encrypted identity are explicitly pending. Do not create a private key or plaintext identity record in this repository. A later user-controlled signature/timestamp can strengthen integrity evidence, not establish conclusive ownership or guaranteed tracing.
-
-## Private GitHub transfer review — 2026-11-02
-
-The user authorised repository creation and push. Transfer is to an access-controlled private repository under the authenticated GitHub account; the account name is a hosting destination, not an assertion of legal ownership. All components retain LicenseRef-Proprietary and the existing provisional notices. No public reuse grant, external contributor access, website deployment or final publisher identity is approved. The reviewed inventory remains original code and editorial content with linked third-party references; this transfer adds only repository metadata, status documentation and an unsigned integrity record. No vendor material or runtime dependency is introduced. Existing licence alternatives and unresolved holder/contact facts remain unchanged. The inception record is preserved; a separate private-transfer record hashes the current tracked sources and licence. No signature or encrypted identity can be verified because user-controlled inputs have not been supplied.
+2026-11-02: private inception and private GitHub transfer used provisional all-rights-reserved notices pending public-profile details. MIT for interface code and CC BY 4.0 for writing were considered but never granted. The original decisions and notices remain in Git history; inception/private-transfer manifests are preserved unchanged. The present review supersedes those provisional notices.

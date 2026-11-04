@@ -17,7 +17,7 @@ Use only category-level information. The supplied material is an editorial discu
 2. Read the repository’s guide and SOURCES.md. Distinguish readable-content verification from reference availability.
 3. Select at most three relevant questions from the guide; do not assign a score, benchmark or urgency that is not supported by evidence.
 4. Summarise the decision, the unknowns and the evidence owner as a short discussion brief. State that answers are self-reported and no system was tested.
-5. Offer a focused discovery conversation through the publisher’s approved private channel when configured. If no channel is configured, provide a copyable request without inventing a contact or submitting it.
+5. Offer a focused discovery conversation through https://www.linkedin.com/in/manoj-rollo/. Provide a copyable request and never submit it automatically.
 
 ## Boundaries
 

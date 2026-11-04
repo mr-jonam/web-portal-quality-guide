@@ -1,13 +1,60 @@
-PROVISIONAL PRIVATE-DEVELOPMENT NOTICE — NOT FOR PUBLICATION
+PUBLIC ORIENTATION MATERIALS AND DEMONSTRATION SOFTWARE LICENCE
+LicenseRef-Proprietary
 
-Copyright (c) 2026. All rights reserved.
+Copyright (c) 2026 Manoj Rollo (GitHub: mr-jonam).
+All rights reserved except for the permissions expressly granted below.
 
-SPDX profile: LicenseRef-Proprietary (provisional).
+1. Scope
+This custom licence covers the original guides, questions, assistant skills,
+reference annotations, artwork, HTML/CSS/JavaScript and Node utility scripts
+supplied in Web Portal Quality Guide, unless separately identified.
+No rights are granted over third-party materials or elements not protected by
+copyright. Linked references remain subject to their respective owners' terms.
 
-This project is a local preparation. The legal rights-holder identity, permission
-contact and final per-component licensing decision are not finalised. No public
-reuse, modification or redistribution licence is granted by this draft.
+2. Free internal orientation and local evaluation
+You may read, download, make internal copies of, privately annotate and adapt
+these materials to understand and discuss quality questions concerning your own
+products or those of the organisation for which you work. This includes ordinary
+internal business use by for-profit organisations. You may run and privately
+modify the supplied demonstration software for that internal orientation and
+local evaluation purpose. No payment is required for these permissions.
+You may use the optional skills with an organisation-approved assistant for the
+same purpose if authorised to send the inputs and without granting the service
+rights to republish or commercially reuse these materials. Do not send sensitive
+data. Retain this licence and attribution in copies. Sharing repository links
+is welcome. Your own answers and independently created work remain yours.
 
-This notice is not an open-source licence. Review and replace it with the
-approved, complete licence text(s) before any public release. Platform names
-and linked third-party materials remain subject to their respective rights.
+3. Other reuse
+Except as permitted by law or the hosting platform's terms, prior written
+permission is required for external redistribution, publishing adaptations or
+translations, sublicensing, resale, public/network hosting of this software,
+or incorporation into services, products, training, assessments or deliverables
+supplied to other parties. Internal orientation permission does not authorise
+repackaging this repository as a competing offer.
+
+4. Excluded rights and GitHub terms
+No patent, trademark, endorsement, certification or rights to unpublished
+know-how, customer material, scoring models or delivery assets are granted.
+Nothing here overrides mandatory legal rights or GitHub's terms permitting
+viewing and forking within its service. A public repository cannot prevent
+copying or guarantee protection against misuse. No platform affiliation is claimed.
+
+5. Attribution and permissions
+Attribution: Web Portal Quality Guide, Manoj Rollo / mr-jonam, 2026.
+Source: https://github.com/mr-jonam/web-portal-quality-guide
+Permission contact: https://www.linkedin.com/in/manoj-rollo/
+Project identifier: 419f128e-533d-4ced-aad6-0fc17dfbd593
+Separately authorised redistribution must retain this notice unless agreed otherwise.
+
+6. No warranty; liability
+Materials and software are supplied "as is" and "as available", without warranty,
+including merchantability, fitness for purpose or non-infringement, to the extent
+permitted by law. They are general orientation, not professional assurance,
+an audit, certification, actual platform testing or release approval. To the
+extent permitted by law, the rights holder is not liable for loss or damage from
+use or reliance. Mandatory liabilities remain unaffected. Access creates no
+client or confidential relationship.
+
+This is a custom restrictive licence, not an open-source or Creative Commons
+licence. It is not DRM or conclusive evidence of ownership. Suitability and
+enforceability depend on applicable law; legal review may be appropriate.

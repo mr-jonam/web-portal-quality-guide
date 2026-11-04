@@ -8,8 +8,8 @@
 - CI: none. No automatic release, deployment, analytics or funding.
 - No API calls, storage, external assets, internal methods, real customer data or invented benchmarks.
 - Content is editorial orientation; official references and retrieval limits are in SOURCES.md.
-- Rights are provisional private development; complete LICENSE-DECISION.md and provenance review before publication.
+- Rights: LicenseRef-Proprietary; internal orientation/local software evaluation permitted. Review per-component LICENSE-DECISION.md before publication; preserve existing records.
 - Preserve .provenance records; refresh evidence deliberately after content or metadata changes.
 - Initial local commits use a role identity, never a personal or employer identity inferred from the machine.
 - Optional skill is orientation only; no privileged tools, connectors or automatic outbound messages.
-- GitHub: private repository at https://github.com/mr-jonam/web-portal-quality-guide; creation/initial push authorised on 2026-11-02. Public visibility and deployment require separate approval.
+- GitHub: https://github.com/mr-jonam/web-portal-quality-guide; public visibility authorised 2026-11-04. Repository publication is separate from website deployment; site-config.publicationApproved remains false until hosting is configured. GUIDE.md is the GitHub reading entrypoint.

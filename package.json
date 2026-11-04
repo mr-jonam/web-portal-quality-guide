@@ -10,5 +10,5 @@
     "preview": "node scripts/serve.mjs",
     "configure": "node scripts/configure.mjs"
   },
-  "license": "UNLICENSED"
+  "license": "SEE LICENSE IN LICENSE"
 }
