@@ -21,3 +21,9 @@ The inception and private-transfer manifests remain unchanged. An additive publi
 ## Decision history
 
 2026-11-02: private inception and private GitHub transfer used provisional all-rights-reserved notices pending public-profile details. MIT for interface code and CC BY 4.0 for writing were considered but never granted. The original decisions and notices remain in Git history; inception/private-transfer manifests are preserved unchanged. The present review supersedes those provisional notices.
+
+## First-use and community review — 2026-11-06
+
+New original README wording, synthetic examples and editorial guidance use LicenseRef-Proprietary under the existing LICENSE; no broader reuse grant. Public references are linked, not copied. No third-party runtime code, client evidence or externally submitted contribution is introduced. Existing copyright, NOTICE, funding, contribution policy and inception provenance remain in force. These changes improve the reading journey without claiming test execution, model evaluation, adoption or guaranteed follower growth.
+
+This is a scoped component review. It does not independently verify legal title, employer agreements or the full historical dependency inventory. An additive unsigned record identifies changed files and the licence hash; no private key, signature or encrypted identity is created without user-controlled inputs.

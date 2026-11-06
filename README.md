@@ -6,6 +6,14 @@ Explore web portal testing, accessibility evaluation and cross-platform acceptan
 
 **Decision in focus:** Which part of the user journey has an unresolved quality or accessibility question?
 
+## See a first result
+
+**Problem:** A portal happy path leaves role differences and the cross-platform handoff unclear.
+
+**Example result:** What outcome should the user see after the handoff, and who owns acceptance?
+
+[Walk through the fictional example](examples/FIRST-RESULT.md), then [read the decision guide](GUIDE.md). Both open directly on GitHub, without installation or a contact request. The result is a question for the accountable owner; it is not a finding about a real system.
+
 <!-- publication:links:start -->
 [Read the guide on GitHub](GUIDE.md) · [Browse all eight guides](https://github.com/mr-jonam/digital-platform-testing-guide/blob/master/REPOSITORIES.md) · [Discuss professional support](https://www.linkedin.com/in/manoj-rollo/)
 
@@ -22,7 +30,11 @@ Explore web portal testing, accessibility evaluation and cross-platform acceptan
 
 Open `docs/index.html` in a browser or use the local preview:
 
+Download the repository, or clone it and start the optional local preview:
+
 ```sh
+git clone https://github.com/mr-jonam/web-portal-quality-guide.git
+cd web-portal-quality-guide
 npm run preview
 ```
 
@@ -76,6 +88,12 @@ Suggested GitHub topics: `web-testing`, `web-portals`, `digital-products`, `acce
 - [web.dev — Web Vitals](https://web.dev/articles/vitals)
 
 Read [SOURCES.md](SOURCES.md) for verification status. References are linked, not republished. Product names identify subject matter; no vendor affiliation, endorsement, logo or partner status is claimed.
+
+## Corrections and future updates
+
+For a broken reference or unclear passage, follow [editorial feedback guidance](CONTRIBUTING.md). Include the page, the confusing sentence and a public source where relevant. External contributions are currently closed.
+
+For future public QA resources, follow [mr-jonam on GitHub](https://github.com/mr-jonam) using the profile's Follow button. Updates appear when material is reviewed; no release schedule is promised.
 
 ## Licence and provenance
 

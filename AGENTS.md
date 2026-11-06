@@ -13,3 +13,4 @@
 - Initial local commits use a role identity, never a personal or employer identity inferred from the machine.
 - Optional skill is orientation only; no privileged tools, connectors or automatic outbound messages.
 - GitHub: https://github.com/mr-jonam/web-portal-quality-guide; public visibility authorised 2026-11-04. Repository publication is separate from website deployment; site-config.publicationApproved remains false until hosting is configured. GUIDE.md is the GitHub reading entrypoint.
+- First-use example: `examples/FIRST-RESULT.md`, linked near the top of README. Maintain these published Markdown additions directly; the inception generator refuses repositories with existing provenance.
